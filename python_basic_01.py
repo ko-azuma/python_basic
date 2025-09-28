@@ -1,0 +1,6 @@
+age = 19
+
+if age > 20:
+    print("成人です")
+else:
+    print("未成年です")
