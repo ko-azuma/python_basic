@@ -24,4 +24,4 @@ for item_name in items:
         money = money - total_price 
     # 上記以外の場合、'お金が足りません''◯◯を買えませんでした'と出力してください。◯◯には変数item_nameを入れてください。
     else :
-        print('お金が足りません' +item_name +'を買えませんでしたyo')  
+        print('お金が足りません' +item_name +'を買えませんでした')  

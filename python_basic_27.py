@@ -13,4 +13,4 @@ for item_name in items:
     # 変数 total_price に果物1個の値段と変数 count を掛けた値を代入してください
     total_price =items[item_name] *count
     # 変数 total_price と型変換を用いて、「 支払い金額は◯◯円です 」となるように出力してください
-    print('支払い金額は' +str(total_price) +'円ですyo')
+    print('支払い金額は' +str(total_price) +'円です')
