@@ -24,4 +24,4 @@ for item_name in items:
         print(item_name + 'を買えませんでした')	
         
 # 変数 money と型変換を用いて、「 残金は◯◯円です 」となるように出力してください	
-print('残金は' + str(money) + '円です')
+print('残金は' + str(money) + '円ですyp')
